@@ -1,3 +1,9 @@
-My name is *Jonathan Brodheim.*
+**Name:** Jonathan Brodheim
 
-* I am from Florida, I love sushi, and I like to design.
+**From:** Florida
+
+**Favorite Food:** Sushi
+
+**Hobby:** Design
+
+**Favorite Color:** Yellow
