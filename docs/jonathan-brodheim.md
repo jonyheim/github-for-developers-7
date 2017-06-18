@@ -1,3 +1,5 @@
+# My Bio
+
 **Name:** Jonathan Brodheim
 
 **From:** Florida
@@ -7,3 +9,7 @@
 **Hobby:** Design
 
 **Favorite Color:** Yellow
+
+**Occupation:** UI Designer
+
+**Favorite OS:** iOS & OS X
